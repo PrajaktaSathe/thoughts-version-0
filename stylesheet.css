@@ -14,12 +14,20 @@ img {
 	border-style: solid 5px;
 }
 
+p {
+	font-size: 20px;
+	color: white;
+	font-family: 'Fondamento', cursive;
+}
+
 .header {
-	
+
+	font-family: 'Fondamento', cursive; 
 	margin: 5px;
 	overflow: hidden;
 	background-color: #000000;
 	padding: 20px 15px 30px;
+
 
 }
 
@@ -31,7 +39,7 @@ img {
 	text-align: center;
 	padding: 10px;
 	text-decoration: none;
-	font-size: 25px;
+	font-size: 40px;
 	line-height: 25px;
 	border-radius: 4px;
 }
